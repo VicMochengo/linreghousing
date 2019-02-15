@@ -1,2 +1,2 @@
 # linreghousing
-Predicting housing prices using dummy data
+Predicting housing prices using linear regression
